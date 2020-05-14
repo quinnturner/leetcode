@@ -1,8 +1,7 @@
 {
   "name": "quinnturner-leetcode",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
+  "description": "My leetcode workbook",
   "scripts": {
     "test": "jest"
   },
@@ -10,7 +9,7 @@
     "leetcode"
   ],
   "author": "Quinn Turner <quinnturnertech@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^26.0.1"
   }
